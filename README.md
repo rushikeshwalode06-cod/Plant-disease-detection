@@ -103,3 +103,5 @@ Example:
 ## 📌 Conclusion
 
 This project demonstrates how transfer learning with MobileNetV2 can be used for plant disease classification. By combining image preprocessing, augmentation, and a pretrained CNN model, the system can classify plant leaf images into multiple disease categories.
+
+![ml](https://github.com/rushikeshwalode06-cod/Plant-disease-detection/blob/main/Plant%20Image.png?raw=true)
